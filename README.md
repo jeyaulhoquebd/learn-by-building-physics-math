@@ -1,5 +1,8 @@
 # Project 1: Projectile Motion Simulator (প্রক্ষেপণ গতি সিমুলেটর)
 
+
+![alt text](Project-1math.png)
+
 **বিষয়:** Physics + Math | **লেভেল:** Basic Python (variables, loops, functions)
 
 ---
